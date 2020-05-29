@@ -51,6 +51,7 @@
 		<module>../hello-world</module>
 		<module>../two-step</module>
 		<module>../file-db</module>
+		<module>../xml-file-db</module>
 		<module>../file-process-db</module>
 	</modules>
 
