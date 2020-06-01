@@ -14,7 +14,7 @@
 		<version>1.5.22.RELEASE</version>
 	</parent>
 
-	<name>spring-batch-training</name>
+	<name>Spring batch training</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
